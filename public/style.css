@@ -1,0 +1,46 @@
+body{
+    background-color: #f1f1f1;
+    font-family: 'Roboto',sans-serif;
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+    color:#555;
+}
+
+p{
+    font-size: 18px;
+}
+
+.Featured{
+    font-size: 72px;
+    padding: 10px 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.general_date{
+    font-size: 48px;
+    margin:20px 5px;
+    font-family: 'Open Sans', sans-serif; 
+}
+
+.level_3{
+    font-size: 32px;
+    padding:10px 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.items{
+    font-size: 16px;
+    padding:5px;
+    margin-left:50px;
+}
+
+.title_secondary{
+    font-size: 48px;
+    margin:20px 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+#featured{
+    font-size: 24px;
+    padding:5px 5px;        
+}
